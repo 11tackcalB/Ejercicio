@@ -1,0 +1,18 @@
+Hecho por: Tomás Garzón Gómez
+Documento: CC 1001200959
+Estediante de ingieneria de sistemas y computación.
+Asignatura: Matematicas Discretas 2
+
+Introducción:
+Un grupo es un conjunto donde se cumplen ciertas reglas como lo son la asociatividad, que tena un elemento neutro, que tenga inverso y que sea una operación delimitada.
+
+Teniendo esto claro lo que quise llegar con el programa propuesto es que primero para porbar la asociativdad cree una matriz por medio del uso de la libreria Numpy. Por medio de que se escogiera una lista de 3 elementos para que puediera verificar que 
+(ab)c=a(bc).
+Si se tenia que no se cumplia inmediatamente se da la condición de que no es un grupo. En cambio, si lo es da la condición de que es posible que sea un grupo.
+
+Problemas del programa:
+1) No está implementado por completo la asociatividad.
+2) No fue posible implementar todas las posibles permutaciones dentro de una lista.
+3) La regla de elemento neutro no está implementeda.
+4) La regla de inverso no está implementada.
+5) La regla de que sea una operación cerrada no está implementada.
