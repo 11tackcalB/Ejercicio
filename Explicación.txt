@@ -16,3 +16,9 @@ Problemas del programa:
 3) La regla de elemento neutro no está implementeda.
 4) La regla de inverso no está implementada.
 5) La regla de que sea una operación cerrada no está implementada.
+
+Jupyter 2:
+En este ejercicio lo que hice fue que a partir de un input dado tengo que calcular el phi de Euler, de varias maneras y comparar sus tiempos de ejecución.
+
+Jupyter 3:
+En este lo que hice fue que para la representación de un número en sus cuadrados, lo calcule con la raíz a partir de ahí usar las funciones floor y ceil.
